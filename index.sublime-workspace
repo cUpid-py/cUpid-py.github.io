@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"ba",
+				"box-shadow\tproperty"
+			],
+			[
+				"w",
+				"border-width"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"borde",
+				"border-width\tproperty"
+			],
+			[
+				"border-",
+				"border-color\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-style\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"ma",
+				"Material Theme: Configuration"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"u",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"install package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Cupid/Documents/Web Development Site/CSS-My site/index.html",
+		"/C/Users/Cupid/Documents/Web Development Site/HTML-Personal Site/index.html",
+		"/C/Users/Cupid/Desktop/HelloWorld/Library/THIS VAC/Website Templates/multipurpose-master/index.html",
+		"/C/Users/Cupid/Documents/Web Development Site/CSS-My site/favicon.ico",
+		"/C/Users/Cupid/Documents/Web Development Site/HTML-Personal Site/css/styles.css",
+		"/C/Users/Cupid/Documents/Web Development Site/HTML-Personal Site/contact me.html",
+		"/C/Users/Cupid/Documents/Web Development Site/css/styles.css",
+		"/C/Users/Cupid/Documents/Web Development Site/HTML-Personal Site/contact-me.html",
+		"/C/Users/Cupid/Downloads/Compressed/html5up-massively/index.html",
+		"/C/Users/Cupid/Downloads/Compressed/html5up-massively/generic.html",
+		"/C/Users/Cupid/Downloads/Compressed/html5up-massively/elements.html",
+		"/C/Users/Cupid/Downloads/Compressed/html5up-massively/lol.html",
+		"/C/Users/Cupid/Desktop/tetser.py",
+		"/C/Users/Cupid/Desktop/HelloWorld/Library/THIS VAC/Web development Folder",
+		"/C/Users/Cupid/Downloads/Compressed/The-Profitable-Programmer-Portfolio/final/assets/scripts/app.js",
+		"/C/Users/Cupid/Downloads/Compressed/The-Profitable-Programmer-Portfolio/final/index.html",
+		"/C/Users/Cupid/Desktop/test.py",
+		"/C/Users/Cupid/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/etc/vaio",
+		"/C/Users/Cupid/Desktop/Matlab/mat92.m",
+		"/C/Users/Cupid/Documents/Ghost Games/Need for Speed(TM) Rivals/settings/PROFILEOPTIONS_profile",
+		"/C/Users/Cupid/Desktop/Assignment2_0.m",
+		"/C/Users/Cupid/Desktop/Assignment2.m",
+		"/C/Users/Cupid/Desktop/Assignment2.0.m",
+		"/C/Users/Cupid/Desktop/Untitled2.m"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
