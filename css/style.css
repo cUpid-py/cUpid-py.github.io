@@ -561,7 +561,7 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 4rem; } }
   .site-blocks-cover .sub-text {
     font-size: 1.4rem;
-    color: gray;
+    color: rgb(0, 0, 0);
     font-weight: 300; }
     @media (max-width: 991.98px) {
       .site-blocks-cover .sub-text {
@@ -585,8 +585,8 @@ h1, h2, h3, h4, h5, h6 {
         .site-blocks-cover .img-wrap .hero-slider:before {
           position: absolute;
           content: "";
-          background: #fff;
-          opacity: .5;
+          background: rgb(0, 0, 0);
+          opacity: .7;
           z-index: 2;
           top: 0;
           left: 0;
@@ -603,7 +603,7 @@ h1, h2, h3, h4, h5, h6 {
         -o-object-fit: cover;
         object-fit: cover; }
   .site-blocks-cover .intro {
-    z-index: 3;
+    z-index: -4;
     position: relative; }
     .site-blocks-cover .intro .heading {
       margin-left: 50px;
