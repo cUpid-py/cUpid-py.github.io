@@ -1,5 +1,5 @@
-## Portfolio Website
-Welcome to my personal portfolio website
+# Portfolio Website
+## Welcome to my personal portfolio website
 
 https://cupid-py.github.io/
 
